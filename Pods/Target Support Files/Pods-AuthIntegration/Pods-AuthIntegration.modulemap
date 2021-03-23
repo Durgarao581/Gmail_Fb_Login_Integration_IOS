@@ -1,0 +1,6 @@
+framework module Pods_AuthIntegration {
+  umbrella header "Pods-AuthIntegration-umbrella.h"
+
+  export *
+  module * { export * }
+}
